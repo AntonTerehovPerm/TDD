@@ -24,6 +24,8 @@ https://github.com/mozilla/geckodriver/releases/
 <b>4. GitSCM</b>
 https://git-scm.com/download/win
 
+# интересная папка
+\Anaconda3\Lib\site-packages\selenium\webdriver
 
 Методология проста: Пока не будет теста, НИЧЕГО НЕ ДЕЛАЙ :)
 
