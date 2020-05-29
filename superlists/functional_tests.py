@@ -1,6 +1,4 @@
 #Выполнить в консоли python functional_tests.py
-#cls - чистка консоли
-#cd - смещение
 from selenium import webdriver
 
 browser = webdriver.Firefox()
